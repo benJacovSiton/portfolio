@@ -8,20 +8,20 @@ export const ProjectList = [
     name: "Epsilon 2023",
     image: Proj1,
     skills: "android studio , java , xml , firebase" ,
-    url : "https://github.com/machadop1407/react-personal-portfolio-website",
+    url : "https://github.com/benJacovSiton/Epsilon2023",
   },
 
   {
     name: "fighting-game",
     image: Proj2,
     skills:  "JavaScript,HTML,CSS",
-    url: "https://www.google.com"
+    url: "https://github.com/benJacovSiton/fightingGame"
   },
   {
     name: " Portfolio Website",
     image: Proj3,
     skills: "React",
-    url: ""
+    url: "https://github.com/benJacovSiton/portfolio"
   },
  
 ];
